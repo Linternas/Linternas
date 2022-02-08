@@ -4,10 +4,10 @@ I'm Mingu Kim (@Linternas).
 
 <ul>
   <li>
-    <p style="font-size: 11px">Programming Languages: Javascript, TypeScript</p>
+    <p style="font-size: 11px">Programming Languages: Javascript, TypeScript, Kotlin</p>
   </li>
   <li>
-    <p>Front-end: HTML, CSS, SCSS, Vue.js, React.js, Typescript, Javascript</p>
+    <p>Front-end: Vue.js, React.js, Android</p>
   </li>
   <li>
     <p>Back-end: Node.js, NestJS</p>
