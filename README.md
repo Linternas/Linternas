@@ -4,16 +4,16 @@ I'm Mingu Kim (@Linternas).
 
 <ul>
   <li>
-    <p style="font-size: 11px">Programming Languages: Javascript, TypeScript, Kotlin</p>
+    <p>Programming Languages: ⭐️TypeScript, ⭐️Javascript, Kotlin</p>
   </li>
   <li>
-    <p>Front-end: Vue.js, React.js, Android</p>
+    <p>Front-end: ⭐️Next.js ⭐️Vue.js, React.js, Android</p>
   </li>
   <li>
-    <p>Back-end: Node.js, NestJS</p>
+    <p>Back-end: ⭐️NestJS, Node.js</p>
   </li>
   <li>
-    <p>Database: MySQL, MongoDB</p>
+    <p>Database: ⭐️MongoDB, MySQL</p>
   </li>
 </ul>
 
