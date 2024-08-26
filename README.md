@@ -1,4 +1,4 @@
-Hello! I'm Mingu Kim (@Linternas). 
+👋 Hello! I'm Mingu Kim (@Linternas). 
 <br />
 I'm passionate about web development and always eager to learn new technologies. Here's a glimpse of what I can work with:
 
