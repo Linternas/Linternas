@@ -52,5 +52,5 @@ I'm passionate about web development and always eager to learn new technologies.
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Linternas}"/>
+  <img src="https://render.gitanimals.org/farms/Linternas"/>
 </a>
