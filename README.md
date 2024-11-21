@@ -50,3 +50,7 @@ I'm passionate about web development and always eager to learn new technologies.
   </a>
 </div>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Linternas}"/>
+</a>
