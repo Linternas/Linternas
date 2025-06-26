@@ -45,12 +45,17 @@ I'm passionate about web development and always eager to learn new technologies.
 <div style="height: 20px;" />
 
 <div align="center" style="display:flex; justify-content: center; width: 100%;>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Linternas"/>
+</a>
+</div>
+
+<!--
+<div align="center" style="display:flex; justify-content: center; width: 100%;>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linternas&layout=compact" />
   </a>
 </div>
+-->
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Linternas"/>
-</a>
