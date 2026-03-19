@@ -4,8 +4,6 @@ Frontend engineer based in Korea.
 Passionate about web development and always exploring new technologies.  
 Currently building web products @i-esg and automated trading systems on the side.
 
----
-
 
 ## Stack
 
@@ -42,14 +40,19 @@ Currently building web products @i-esg and automated trading systems on the side
 
 </details>
 
----
-
 ## Projects
 
-- **[mingudev.tech](https://mingudev.tech)** — Portfolio & personal site
 - **[Hyperliquid Trade Dashboard](https://hyperliquid-trade-dashboard-web.vercel.app/)** — Crypto trading dashboard for automated strategies on Hyperliquid
-  
----
+- **[Crypto Price Tracker](https://chromewebstore.google.com/detail/crypto-price-tracker/ccdinhhijdcehgiphfepgiapllfeohpn)** — Chrome extension for real-time crypto price tracking
+- **[mingudev.tech](https://mingudev.tech)** — Portfolio & personal site
+
+<details>
+<summary>Archived</summary>
+<br>
+
+- **[투데이웹툰](https://github.com/Linternas/webtoon-front)** — Webtoon monetization schedule tracker (team side project)
+
+</details>
 
 ## GitHub Stats
 
@@ -70,3 +73,5 @@ Currently building web products @i-esg and automated trading systems on the side
 </div>
 
 ---
+
+[mingudev.tech](https://mingudev.tech) · [github.com/linternas](https://github.com/linternas)
