@@ -72,6 +72,4 @@ Currently building web products @i-esg and automated trading systems on the side
   </a>
 </div>
 
----
 
-[mingudev.tech](https://mingudev.tech) · [github.com/linternas](https://github.com/linternas)
