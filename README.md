@@ -41,12 +41,14 @@ Currently building web products @i-esg and automated trading systems on the side
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 </details>
+
 ---
 
 ## Projects
 
 - **[mingudev.tech](https://mingudev.tech)** — Portfolio & personal site
 - **[Hyperliquid Trade Dashboard](https://hyperliquid-trade-dashboard-web.vercel.app/)** — Crypto trading dashboard for automated strategies on Hyperliquid
+  
 ---
 
 ## GitHub Stats
@@ -68,5 +70,3 @@ Currently building web products @i-esg and automated trading systems on the side
 </div>
 
 ---
-
-[mingudev.tech](https://mingudev.tech) · [github.com/linternas](https://github.com/linternas)
