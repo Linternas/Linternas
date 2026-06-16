@@ -42,9 +42,9 @@ Currently building web products @i-esg and automated trading systems on the side
 
 ## Projects
 
-- **[Hyperliquid Trade Dashboard](https://trade.mingudev.tech)** — Crypto trading dashboard for automated strategies on Hyperliquid
+- **[Hyperliquid Trade Dashboard](https://trade.mingu.xyz)** — Crypto trading dashboard for automated strategies on Hyperliquid
 - **[Crypto Price Tracker](https://chromewebstore.google.com/detail/crypto-price-tracker/ccdinhhijdcehgiphfepgiapllfeohpn)** — Chrome extension for real-time crypto price tracking
-- **[mingu.dev](https://blog.mingudev.tech)** — Portfolio & personal site
+- **[mingu.dev](https://blog.mingu.xyz)** — Portfolio & personal site
 
 <details>
 <summary>Archived</summary>
