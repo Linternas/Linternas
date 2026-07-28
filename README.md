@@ -58,7 +58,7 @@ Currently building web products @i-esg and automated trading systems on the side
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linternas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Linternas&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
