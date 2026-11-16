@@ -54,6 +54,11 @@ Currently building web products @i-esg and automated trading systems on the side
 
 </details>
 
+## Writing
+
+- [Next.js를 App router로 전환했더니 차트가 사라졌다!!](https://blog.mingu.xyz/articles/58)
+- [Next.js Standalone 빌드에서 모노레포 파일이 빠지는 이유](https://blog.mingu.xyz/articles/22)
+
 ## GitHub Stats
 
 <div align="center">
